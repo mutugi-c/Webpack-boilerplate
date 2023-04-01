@@ -156,7 +156,7 @@ If you like this project, give a ⭐️.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://www.microverse.org/go?utm_source=google&utm_medium=paid&utm_campaign=search_europe&gclid=CjwKCAjwq-WgBhBMEiwAzKSH6IxBgyh61fi4WRuQvUsaGigJMuzzc9177uC6mhMwXeriUDendiuvChoC20wQAvD_BwE) for the opportunity work on this project.
+I would like to thank [Microverse](https://www.microverse.org/go?utm_source=google&utm_medium=paid&utm_campaign=search_europe&gclid=CjwKCAjwq-WgBhBMEiwAzKSH6IxBgyh61fi4WRuQvUsaGigJMuzzc9177uC6mhMwXeriUDendiuvChoC20wQAvD_BwE) for the opportunity to work on this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
